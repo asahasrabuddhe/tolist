@@ -1,4 +1,4 @@
-module tolist
+module github.com/asahasrabuddhe/tolist
 
 go 1.18
 
